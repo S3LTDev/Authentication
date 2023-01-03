@@ -5,7 +5,7 @@
  o88o  8  o88o o88o  o888o o88o  o888o o8888oooo88    o888o    o888oooo888                                                                         
  link  https://github.com/max2tz/Authentication
  author  max2tz https://github.com/max2tz
- license  GPL-3.0 License 
+ license  GPL-3.0 License
 
 
 # Authentication
